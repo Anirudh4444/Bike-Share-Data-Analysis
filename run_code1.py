@@ -1,5 +1,4 @@
 import pyttsx3
-import os
 import pathlib
 from file_read_backwards import FileReadBackwards
 from subprocess import call
