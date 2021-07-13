@@ -1,5 +1,5 @@
 slide 1 
-what is bolo stark ?
+what is this voice assistant ?
 
 We all know we have a standard voice assistant for laptop --Cortona...which helps us to do various day today life tasks.
 So Bolo stark is one's personal assistant which will not only target general audience but also professionals like developers,data scientists,mathematicians
