@@ -1,0 +1,52 @@
+slide 1 
+what is bolo stark ?
+
+We all know we have a standard voice assistant for laptop --Cortona...which helps us to do various day today life tasks.
+So Bolo stark is one's personal assistant which will not only target general audience but also professionals like developers,data scientists,mathematicians
+and it will also help students and physically disabled people.
+
+
+
+Slide 2
+
+I guess we can easily recognize all the icons here and we know these are the voice assistants that are dominating the market for automating laptop
+
+The key features that are being used mostly by users are -Make a todo list,playing music,Sending email,scheduling meeting,getting information and facts ,opening apps,
+opening application and doing basic calculations
+
+
+Slide 3
+But all these voice assistants can't do complex tasks which is required by developers , data scientist,ml people , devops people,students,mathematician,etc.
+
+So first we tried to cover almost all the features that you saw in the previous slide and to do the complex taks that current voice assistants are not doing..
+So we came up with the following features to help all ..which are..:- (See slides and explain the basic procedure)(For password manager thing add encryption and decryption thing)
+
+
+
+SLide 4
+
+Major modules and technologies which we are using are -Google Speech-to-text and text-to-speech which is helping us in understanding what user said and responds according to the tasks
+                                                      - Sapi which is a speech engine api developed my Microsoft is used here for BOLO stark voice
+                                                       -Tkinter ha been used for the UI thing
+SLide 5 
+Refer slides and add according to you anything
+Our main feature in future that we will be working on is pushing and pulling branches from and to git repositories.
+Editing notes using voice assistant
+More devops tools like ockerhub will be added for creating docker images using voice
+
+Slide 6 
+It will help developers, data scientist,mathematician, students to focus on other tasks that cannot be handled by BOLO Stark which means they will be able to focus 
+on more complex things which will save time and impact business in a positive way.Moreover it will help Ml ,ai people to make algorithms..Password manager will remove the need of 
+resetting your password just because you forgot it .We will be circulating text reader and notes taker for free for social cause in charity for disabled people.
+Rest almost all the features have been added for user benefit(like sending email, 
+searching google, playing songs, top news, info about anything. etc.)â€‹
+
+Now its demo time
+
+â€‹
+
+
+
+
+
+
