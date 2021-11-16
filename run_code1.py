@@ -15,6 +15,7 @@ def speak(audio):
     engine.say(audio)
     engine.runAndWait()
 
+#hello noob
 def choose_file():
     print("Bot: "+"Browse file to run")
     root = tk.Tk()
